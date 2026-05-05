@@ -66,7 +66,7 @@
       bindings = <
         &trans    &trans    &trans    &trans      &trans     &trans &trans                                                                    &trans &trans    &trans    &trans    &trans   &trans   &trans
         &trans    &none     &none     &kp UNDER   &kp PLUS   &kp PG_UP &none                                                                &none  &kp PIPE  &kp BSLH  &none     &none    &none    &trans
-        &trans    &kp HOME  &kp END   &kp MINUS   &kp EQUAL  &kp PG_DN &none           &trans    &trans    &trans    &trans                  &none  &none     &kp RIGHT &kp UP    &kp DOWN &kp LEFT &trans
+        &trans    &kp HOME  &kp END   &kp MINUS   &kp EQUAL  &kp PG_DN &none           &trans    &trans    &trans    &trans                  &none  &kp LEFT &kp DOWN &kp UP    &kp RIGHT &none &trans
         &trans    &kp LT    &kp GT    &none       &none      &kp SEMI                             &trans    &trans                                  &none     &none     &none     &none    &kp C_PP &trans
         &trans    &trans    &trans    &trans      &trans                      &trans &trans &trans  &trans &trans &trans                               &trans    &trans    &trans    &trans   &trans
       >;
