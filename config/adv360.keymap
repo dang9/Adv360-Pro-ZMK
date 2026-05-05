@@ -48,7 +48,7 @@
         &kp TAB   &kp Q     &kp W     &kp F    &kp P      &kp B  &none                                                                   &none  &kp J  &kp L     &kp U     &kp Y    &kp SQT  &kp DEL
         &sk LALT  &kp A     &kp R     &kp S    &kp T      &kp G  &none           &kp LCTRL &kp LALT  &kp LGUI  &kp RCTRL                  &none  &kp M  &kp N     &kp E     &kp I    &kp O    &sk LGUI
         &sk LSHFT &kp Z     &kp X     &kp C    &kp D      &kp V                             &kp HOME  &kp PG_UP                                  &kp K  &kp H     &kp COMMA &kp DOT  &kp FSLH &sl 3
-        &mo 2     &kp ESC   &kp C_MUTE &kp LEFT &kp RIGHT              &sk LCTRL &hm LGUI ENTER &lt 1 TAB  &lt 2 BSPC &kp SPACE &sk LSHFT              &kp UP &kp DOWN  &kp LBKT &kp RBKT &mo 2
+        &mo 2     &kp ESC   &kp C_MUTE &kp LEFT &kp RIGHT              &sk LCTRL &hm LGUI ENTER &lt 2 TAB  &lt 1 BSPC &kp SPACE &sk LSHFT              &kp UP &kp DOWN  &kp LBKT &kp RBKT &mo 2
       >;
     };
     sym {
